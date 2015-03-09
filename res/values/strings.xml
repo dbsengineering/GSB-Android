@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Suivi de vos frais</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_frais_km">Suivi de vos frais</string>
+    <string name="title_activity_repas">Suivi de vos frais</string>
+    <string name="title_activity_nuitee">Suivi de vos frais</string>
+    <string name="title_activity_etape">Suivi de vos frais</string>
+    <string name="title_activity_hf">Suivi de vos frais</string>
+    <string name="title_activity_hf_recap">Suivi de vos frais</string>
+    <string name="title_activity_layout_liste">LayoutListe</string>
+    <string name="plus">+</string>
+    <string name="moins">-</string>
+    <string name="valider">Valider</string>
+    <string name="km">Km</string>
+    <string name="repas">Repas</string>
+    <string name="nuit">Nuits</string>
+    <string name="etape">Etapes</string>
+    <string name="euro">€</string>
+    <string name="dPoint">:</string>
+    <string name="title_activity_login">Suivi de vos frais</string>
+    <string name="login">Login</string>
+    <string name="mdp">Mot de passe</string>
+    <string name="ident">Paramètres identifiant</string>
+
+</resources>
