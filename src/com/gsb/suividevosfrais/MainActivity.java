@@ -143,7 +143,7 @@ public class MainActivity extends Activity {
                             exportD.recupeListes(idBdd, fraisFBdd, fraisHBdd);
 
                             //Envoi des données
-                            exportD.execute("http://www.dbs.bzh/GSB/controleurs/c_receptionDonnAndroid.php");
+                            exportD.execute("http://nomDuServeur/service.php");
 
                         }else{
                             //Affichage du message
