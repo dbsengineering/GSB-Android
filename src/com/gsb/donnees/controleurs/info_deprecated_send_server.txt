@@ -1,8 +1,10 @@
-Méthodes dépréciées pour la connexion au serveur à distance:
+Méthodes dépréciées dans le fichier ExportDonn.java
+Deprecated methods in ExportDonn.java file
 
-Deprecated methods in ExportDon.java file
-
+Les nouvelles méthodes sont:
 News methods are :
+
+
 
 public static final int CONNECTION_TIMEOUT=10000;
     public static final int READ_TIMEOUT=15000;
@@ -39,7 +41,8 @@ public static final int CONNECTION_TIMEOUT=10000;
 
 
     /**
-     * Version avec Json
+     * la version qui change
+     * this version change
      * @param params
      * @return
      */
@@ -128,6 +131,7 @@ public static final int CONNECTION_TIMEOUT=10000;
         try{
 
             //Ne change pas
+            //No change
 
         }catch (Throwable e){
             e.printStackTrace();
